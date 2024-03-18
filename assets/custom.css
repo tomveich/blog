@@ -1,0 +1,3 @@
+.hover\:animate-spin:hover {
+    animation: none !important; /* Disable theme's default animation */
+  }

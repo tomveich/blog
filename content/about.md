@@ -1,6 +1,6 @@
 ---
 title: 'About'
-noComment: true
+comments: false
 ---
 
 About page
