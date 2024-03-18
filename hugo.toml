@@ -1,0 +1,30 @@
+baseURL = 'https://blog.oli.cx/'
+languageCode = 'en-us'
+title = 'blog.oli.cx'
+
+theme = 'paper'
+
+
+# Theme settings
+
+disqusShortname = 'oli_cx'   # use disqus comments
+rss = true
+
+[params]
+    avatar = '/static/images/avatar.jpg' # gravatar email or image url
+    name = 'Oliver'
+    bio = 'Bio'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
