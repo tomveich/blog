@@ -14,7 +14,6 @@ rss = true
     avatar = '/static/images/avatar.jpg' # gravatar email or image url
     name = 'Oliver'
     bio = 'Bio'
-    custom_css = [".css"]
 
 [menu]
 
