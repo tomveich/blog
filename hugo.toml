@@ -1,4 +1,4 @@
-baseURL = 'https://blog.oli.cx'
+baseURL = 'http://blog.oli.cx'
 languageCode = 'en-us'
 title = 'blog.oli.cx'
 
