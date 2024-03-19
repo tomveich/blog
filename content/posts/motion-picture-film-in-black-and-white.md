@@ -3,6 +3,7 @@ title: "Processing Motion Picture Film in Black White"
 date: 2023-10-17T17:11:42+01:00
 draft: false
 weight: 1 # Weight determines the order in which posts are displayed on the homepage
+tags: ["film", "photography"]
 ---
 
 KODAK Vision3 500T is a powerful film capable of delivering crisp results despite it's higher ISO. Can you develop Vision3 500T in B&W? Is processing 500T in black and white worth it?

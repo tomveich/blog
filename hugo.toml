@@ -7,7 +7,7 @@ theme = 'paper'
 
 # Theme settings
 
-disqusShortname = 'oli_cx'   # use disqus comments
+#disqusShortname = 'oli_cx'   # use disqus comments
 rss = true
 
 [params]
