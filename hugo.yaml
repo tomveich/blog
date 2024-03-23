@@ -1,0 +1,41 @@
+baseURL: 'https://blog.oli.cx/'
+languageCode: 'en-us'
+title: 'blog.oli.cx'
+theme: 'PaperMod'
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+
+
+# Theme settings
+
+#disqusShortname: 'oli_cx'   # use disqus comments
+rss: true
+
+params:
+  author: "Oliver"
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    enabled: false
+  homeInfoParams:
+    enabled: true
+    Title: "Oli's blog"
+    Content: "blog.oli.cx"
+
+
+menu:
+  main:
+  - name: "About"
+    url: "about/"
+    weight: 10
+
+
+taxonomies:
+    category: "categories"
+    tag: "tags"
+    series: "series"
+    author: "Oli"

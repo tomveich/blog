@@ -1,6 +1,7 @@
 ---
 title: 'About'
 comments: false
+author: [""]
 ---
 
-About page
+-

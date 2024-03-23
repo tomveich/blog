@@ -2,7 +2,7 @@
 title: "Processing Motion Picture Film in Black White"
 date: 2023-10-17T17:11:42+01:00
 draft: false
-weight: 1 # Weight determines the order in which posts are displayed on the homepage
+weight: 10
 tags: ["film", "photography"]
 ---
 
